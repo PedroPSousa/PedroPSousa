@@ -10,9 +10,6 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPSousa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
-## 🛠️ Tecnologias e Ferramentas
-
-### Linguagens de Programação:
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" />

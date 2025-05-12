@@ -5,7 +5,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
- Sou Pedro Pereira, estudante de Engenharia de Software na Universidade Católica do Salvador (UCSal). Desenvolvedor full stack em formação, meu foco está na criação de aplicações  bem estruturadas, que ofereçam uma experiência fluida  e alto desempenho. Prezo por soluções  consistentes e com valor real para quem as utiliza.
+ Sou Pedro Pereira, estudante de Engenharia de Software na Universidade Católica do Salvador (UCSal). Desenvolvedor full stack em formação, meu foco está na criação de aplicações  bem estruturadas, que ofereçam resultados e impactos reais, busco constantemente aprofundar o meu conhecimeento em tecnologias.
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPSousa&show_icons=true)

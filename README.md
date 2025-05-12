@@ -20,7 +20,9 @@
   <img alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" />
   <img alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" />
   <img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" />
-  
+  <div style="display: flex; justify-content: center; gap: 20px;">
+  <img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" />
+  <img alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" />
 </div>
 
 
@@ -32,12 +34,6 @@
   
 </div><br/>
 
-### IDEs e Editores:
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img alt="Eclipse" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" title="Eclipse" />
-  <img alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
-</div><br/>
 
 
 

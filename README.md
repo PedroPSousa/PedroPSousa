@@ -29,7 +29,7 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" />
   <img alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" />
-  <img alt="SQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" />
+  
 </div><br/>
 
 ### IDEs e Editores:

@@ -1,4 +1,5 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Pedro Pereira
+
 
 **`Desenvolvedora FullStack`**
 

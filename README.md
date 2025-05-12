@@ -10,6 +10,10 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPSousa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
+---
+## 🛠 Stack Principal
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0;">
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" />
@@ -20,7 +24,7 @@
   <img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" />
   <img alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" />
 </div>
-
+zZ
 
 
 
